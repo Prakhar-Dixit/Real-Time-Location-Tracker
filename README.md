@@ -52,10 +52,6 @@ A simple real-time location tracking application built using Node.js, Express, S
 3. **Map Update**: Each client receives the location data and updates the map, either adding a new marker or updating an existing one.
 4. **User Disconnection**: When a user disconnects, the server notifies all clients to remove the marker associated with that user from the map.
 
-## Screenshot
-
-![Map Screenshot](path/to/your/screenshot.png)
-
 ## Contributing
 
 Feel free to submit issues or pull requests if you find any bugs or have suggestions for improvements.
