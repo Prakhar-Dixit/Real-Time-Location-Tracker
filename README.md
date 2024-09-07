@@ -29,7 +29,7 @@ A simple real-time location tracking application built using Node.js, Express, S
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/real-time-location-tracker.git
+    git clone https://github.com/Prakhar-Dixit/Real-Time-Location-Tracker.git
     ```
 2. Navigate to the project directory:
     ```bash
