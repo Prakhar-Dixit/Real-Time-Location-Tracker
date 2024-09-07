@@ -1,6 +1,6 @@
 # Real-Time Location Tracker
 
-![Real-Time Location Tracker](![Screenshot 2024-09-07 131420](https://github.com/user-attachments/assets/f62c6073-66ce-41a1-a922-1aa02265d0b5))
+![Screenshot 2024-09-07 131420](https://github.com/user-attachments/assets/f62c6073-66ce-41a1-a922-1aa02265d0b5)
 
 A simple real-time location tracking application built using Node.js, Express, Socket.IO, and Leaflet.js. This project demonstrates the use of WebSockets for real-time communication, allowing users to share their location data and visualize it on a live map.
 
