@@ -59,7 +59,3 @@ A simple real-time location tracking application built using Node.js, Express, S
 ## Contributing
 
 Feel free to submit issues or pull requests if you find any bugs or have suggestions for improvements.
-
-## License
-
-This project is licensed under the ISC License. See the `LICENSE` file for more details.
