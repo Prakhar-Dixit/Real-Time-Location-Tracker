@@ -55,3 +55,8 @@ A simple real-time location tracking application built using Node.js, Express, S
 ## Contributing
 
 Feel free to submit issues or pull requests if you find any bugs or have suggestions for improvements.
+
+## Deployed Link
+
+Here is the deployed link:  
+[Real-Time Location Tracker](https://real-time-location-tracker-hl0i.onrender.com/)
